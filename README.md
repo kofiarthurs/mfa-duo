@@ -23,7 +23,7 @@ To enroll users, you can use the Bulk Enroll Users option or the Send Enrollment
 The user would first download the DUO application before clicking on the setup link so that the link connects to the app automatically. Once on the app, they can put in their details and complete the set up.
 
 <h2>User Profile</h2>
-<img src="https://imgur.com/qYZvvlc.png" height="80%" width="80%"/>
+<img src="https://imgur.com/u0rpfom.png" height="80%" width="80%"/>
 
 Under the users profile you can view their details and edit configurations. Status allows us to require MFA for the user, bypass it or disable access entirely. Bypass might be used when a user needs access but MFA isnt working. Disabled denys access to the user even when MFA is used.
 <img src="https://imgur.com/wsPmT7F.png" height="80%" width="80%"/>
@@ -31,10 +31,10 @@ Under the users profile you can view their details and edit configurations. Stat
 Authentication Experience’s option, Automatic Selection of Authentication Methods can be enabled or disabled. When its enabled the last-used method or most secure method, as defined by Duo, will be selected for the user.
 
 Groups can be created to simplify the management of users. Under groups you get the same Status options, Active, Bypass and Disabled. This allows us to manage a large groups of users statuses simultaneously.
-<img src="https://imgur.com/qYZvvlc.png" height="80%" width="80%"/>
+<img src="https://imgur.com/fGDEEgK.png" height="80%" width="80%"/>
 
 We can view the user’s recent authentications, which was a browser in this case, phone details and endpoints. We can reactivate the mobile app when MFA isn’t registering. Endpoints lists the devices connected to the users accounts, for example, phones and tablets.
-<img src="https://imgur.com/qYZvvlc.png" height="80%" width="80%"/>
+<img src="https://imgur.com/kbXZEcX.png" height="80%" width="80%"/>
 
 Hardware tokens are physical devices that create MFA codes.
 Bypass Codes can be sent to the user, these bypass MFA. DUO keeps a log of who creates the codes for security purposes.
@@ -44,7 +44,7 @@ WebAuthn allows us to connect biometric and passkey authentication methods. Thes
 Desktop Authenticators is the DUO desktop app.
 
 <h2>Phones</h2>
-<img src="https://imgur.com/qYZvvlc.png" height="80%" width="80%"/>
+<img src="https://imgur.com/vGkTByW.png" height="80%" width="80%"/>
 
 Once a user has connected their phone, we are given information such as the make and model of the device. Under Device Security we are given info about the devices security features, such as Disk Encryption, Passcode Set and Biometrics. Tampered refers to the device being jailbroken or rooted which may be more susceptible to malware and unauthorised access.
 
