@@ -48,5 +48,5 @@ Desktop Authenticators is the DUO desktop app.
 
 Once a user has connected their phone, we are given information such as the make and model of the device. Under Device Security we are given info about the devices security features, such as Disk Encryption, Passcode Set and Biometrics. Tampered refers to the device being jailbroken or rooted which may be more susceptible to malware and unauthorised access.
 
-Lastly we have other features that allow us to create access policies for specific device brands, view reports for authentication auditing and identity monitoring.
+Lastly, we have other features that allow us to create access policies for specific device brands, view reports for authentication auditing and identity monitoring.
 
