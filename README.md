@@ -18,6 +18,7 @@ Add User is for manually adding a single user at a time.
 <img src="https://imgur.com/0CdPUHJ.png" height="80%" width="80%"/>
 
 To enroll users, you can use the Bulk Enroll Users option or the Send Enrollment Email option under Add User. In order to enroll users they need an email. Once they get the link they can go through the setup process on their devices.
+
 <img src="https://imgur.com/eNGKIm9.png" height="80%" width="80%"/>
 
 The user would first download the DUO application before clicking on the setup link so that the link connects to the app automatically. Once on the app, they can put in their details and complete the set up.
@@ -26,14 +27,17 @@ The user would first download the DUO application before clicking on the setup l
 <img src="https://imgur.com/u0rpfom.png" height="80%" width="80%"/>
 
 Under the users profile you can view their details and edit configurations. Status allows us to require MFA for the user, bypass it or disable access entirely. Bypass might be used when a user needs access but MFA isnt working. Disabled denys access to the user even when MFA is used.
+
 <img src="https://imgur.com/wsPmT7F.png" height="80%" width="80%"/>
 
 Authentication Experience’s option, Automatic Selection of Authentication Methods can be enabled or disabled. When its enabled the last-used method or most secure method, as defined by Duo, will be selected for the user.
 
 Groups can be created to simplify the management of users. Under groups you get the same Status options, Active, Bypass and Disabled. This allows us to manage a large groups of users statuses simultaneously.
+
 <img src="https://imgur.com/fGDEEgK.png" height="80%" width="80%"/>
 
 We can view the user’s recent authentications, which was a browser in this case, phone details and endpoints. We can reactivate the mobile app when MFA isn’t registering. Endpoints lists the devices connected to the users accounts, for example, phones and tablets.
+
 <img src="https://imgur.com/kbXZEcX.png" height="80%" width="80%"/>
 
 Hardware tokens are physical devices that create MFA codes.
